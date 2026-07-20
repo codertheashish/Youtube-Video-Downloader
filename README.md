@@ -20,7 +20,7 @@ Built with **Flask** + **yt-dlp**, single-page frontend, no clutter.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/codertheashish/youtube-downloader.git
+git clone https://github.com/codertheashish/Youtube-Video-Downloader.git
 cd youtube-downloader
 ```
 

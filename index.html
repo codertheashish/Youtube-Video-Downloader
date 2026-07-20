@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YouTube Downloader</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="card">
+    <div class="logo">▶</div>
+    <h1>YouTube Downloader</h1>
+    <p class="subtitle">Paste a link, pick a format, hit download.</p>
+
+    <form id="download-form">
+      <input
+        type="url"
+        id="url"
+        placeholder="Paste YouTube Video URL Here..."
+        required
+      />
+
+      <div class="mode-toggle">
+        <label class="mode-option">
+          <input type="radio" name="mode" value="video" checked />
+          <span>🎬 Video (MP4)</span>
+        </label>
+        <label class="mode-option">
+          <input type="radio" name="mode" value="audio" />
+          <span>🎵 Audio (MP3)</span>
+        </label>
+      </div>
+
+      <button type="submit" id="download-btn">Download</button>
+    </form>
+
+    <p id="status" class="status"></p>
+
+    <footer>© 2026 <strong>codertheashish</strong> • Fast • Secure • Reliable</footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -58,5 +58,5 @@ This project is for **personal and educational use only**. Please respect YouTub
 
 ## 👤 Author
 **Ashish Kumar Prajapati**
-- GitHub: [@codertheashish](https://github.com/codertheashish)
+- GitHub: [codertheashish](https://github.com/codertheashish)
 - Portfolio: [codertheashish.vercel.app](https://codertheashish.vercel.app)

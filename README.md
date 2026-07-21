@@ -120,7 +120,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Playlist Download Support
 - Video Quality Selection
@@ -154,6 +154,6 @@ This project is for **personal and educational use only**. Please respect YouTub
 [codertheashish](https://www.linkedin.com/in/codertheashish/)
 
 
-# ⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.

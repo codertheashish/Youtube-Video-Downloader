@@ -55,7 +55,9 @@ Youtube-Video-Downloader/
 
 ### 1. Clone Repository
 
-```bash https://github.com/codertheashish/Youtube-Video-Downloader.git
+```bash
+ https://github.com/codertheashish/Youtube-Video-Downloader.git
+
 ```
 
 ### 2. Install Dependencies

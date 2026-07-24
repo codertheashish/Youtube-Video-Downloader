@@ -149,7 +149,8 @@ This project is for **personal and educational use only**. Please respect YouTub
 
 **Ashish Kumar Prajapati**
 
-- GitHub: [codertheashish](https://github.com/codertheashish)
+- GitHub:
+[codertheashish](https://github.com/codertheashish)
 - Linkedin :
 [codertheashish](https://www.linkedin.com/in/codertheashish/)
 

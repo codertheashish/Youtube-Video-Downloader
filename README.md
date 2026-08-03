@@ -149,12 +149,14 @@ This project is for **personal and educational use only**. Please respect YouTub
 
 **Ashish Kumar Prajapati**
 
-- GitHub:
+- GitHub :
 [codertheashish](https://github.com/codertheashish)
-- Linkedin :
+- LinkedIn :
 [codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
+---
 
+⭐ If you like this portfolio, don't forget to give it a star on GitHub.
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub.
+<img width="1672" height="941" alt="Youtube Video Downloader" src="https://github.com/user-attachments/assets/f8e980f8-cb35-4edd-9ff5-343527e540ed" />

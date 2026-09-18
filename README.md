@@ -53,7 +53,7 @@ Youtube-Video-Downloader/
 
 # 🚀 Getting Started
 
-### 1. Clone Repository
+### 1. Clone Repo
 
 ```bash
  https://github.com/codertheashish/Youtube-Video-Downloader.git
